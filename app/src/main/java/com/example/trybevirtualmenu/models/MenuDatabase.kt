@@ -81,5 +81,5 @@ object MenuDatabase {
 
     fun getMenu() = dishs
 
-    fun getById(name: String) = dishs.find { it.name == name }
+    fun getByIndex(i: Int) = dishs[i]
 }
