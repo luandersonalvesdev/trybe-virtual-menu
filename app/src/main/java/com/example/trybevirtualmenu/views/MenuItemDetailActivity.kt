@@ -3,7 +3,6 @@ package com.example.trybevirtualmenu.views
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.trybevirtualmenu.R
-import com.example.trybevirtualmenu.interfaces.Dish
 import com.example.trybevirtualmenu.models.MenuDatabase
 import com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
 import com.google.android.material.imageview.ShapeableImageView
